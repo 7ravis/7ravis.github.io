@@ -1,0 +1,16 @@
+# Log file #
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# mac finder display settings #
+*.DS_Store
+
+# eclipse settings #
+.settings
